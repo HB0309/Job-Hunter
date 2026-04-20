@@ -1,0 +1,5863 @@
+[
+  {
+    "raw_job_id": 19357,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7782201"
+  },
+  {
+    "raw_job_id": 19358,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7782195"
+  },
+  {
+    "raw_job_id": 19359,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7774018"
+  },
+  {
+    "raw_job_id": 19360,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "Philadelphia, PA",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7782199"
+  },
+  {
+    "raw_job_id": 19361,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "Tampa, FL",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7782181"
+  },
+  {
+    "raw_job_id": 19362,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "AppSec role at Contentful (enterprise CMS). Application security aligns with profile: secure code review, threat modeling, OWASP, SAST/DAST. US location.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "threat modeling",
+      "secure SDLC",
+      "Python",
+      "Linux"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "Docker",
+      "secure SDLC",
+      "OWASP",
+      "threat modeling"
+    ],
+    "missing_skills": [
+      "prior dedicated AppSec role",
+      "enterprise SaaS experience"
+    ],
+    "title": "Security Engineer (Application Security)",
+    "company": "contentful",
+    "location": "Orlando, FL",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7782161"
+  },
+  {
+    "raw_job_id": 20097,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong brand, systems/backend work.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend systems",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92"
+  },
+  {
+    "raw_job_id": 20099,
+    "keep_in_db": true,
+    "fit_score": 72,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong brand, systems/backend work.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend systems",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c"
+  },
+  {
+    "raw_job_id": 20100,
+    "keep_in_db": true,
+    "fit_score": 74,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong company. Infrastructure focus aligns with Docker/Linux/Kafka background.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "infrastructure"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4"
+  },
+  {
+    "raw_job_id": 20101,
+    "keep_in_db": true,
+    "fit_score": 74,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong company. Infrastructure focus aligns with Docker/Linux/Kafka background.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "infrastructure"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad - Infrastructure",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d"
+  },
+  {
+    "raw_job_id": 20103,
+    "keep_in_db": true,
+    "fit_score": 74,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong company. Infrastructure focus aligns with Docker/Linux/Kafka background.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "infrastructure"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6"
+  },
+  {
+    "raw_job_id": 20105,
+    "keep_in_db": true,
+    "fit_score": 74,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong company. Infrastructure focus aligns with Docker/Linux/Kafka background.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "infrastructure"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
+  },
+  {
+    "raw_job_id": 20106,
+    "keep_in_db": true,
+    "fit_score": 74,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir New Grad SWE. Explicit new grad. Strong company. Infrastructure focus aligns with Docker/Linux/Kafka background.",
+    "ats_keywords": [
+      "new grad",
+      "software engineer",
+      "Python",
+      "Linux",
+      "distributed systems",
+      "infrastructure"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "Palantir-specific stack"
+    ],
+    "title": "Software Engineer, New Grad - Production Infrastructure",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a"
+  },
+  {
+    "raw_job_id": 19291,
+    "keep_in_db": true,
+    "fit_score": 70,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Glean (AI enterprise search, Series E) University Grad SWE. Explicit new grad. Python/backend skills directly relevant.",
+    "ats_keywords": [
+      "university grad",
+      "software engineer",
+      "Python",
+      "backend",
+      "search infrastructure",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend systems",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "Go/Rust experience",
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, University Grad",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005"
+  },
+  {
+    "raw_job_id": 20261,
+    "keep_in_db": true,
+    "fit_score": 65,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "entry_level",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Lindy (AI assistant) explicitly targets early career. Python backend overlap. Remote-first startup.",
+    "ats_keywords": [
+      "full stack",
+      "early career",
+      "Python",
+      "backend",
+      "React",
+      "PostgreSQL"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "Docker",
+      "PostgreSQL",
+      "GitHub Actions"
+    ],
+    "missing_skills": [
+      "React/frontend experience"
+    ],
+    "title": "Full Stack Software Engineer (Early Career)",
+    "company": "lindy",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb"
+  },
+  {
+    "raw_job_id": 18082,
+    "keep_in_db": true,
+    "fit_score": 65,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "ElevenLabs AppSec Engineer, Remote. AppSec skills align: web security, vuln scanning, OWASP. Fast-growing AI audio company.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "secure SDLC",
+      "Python",
+      "OWASP",
+      "vulnerability assessment"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "OWASP",
+      "Nessus",
+      "vulnerability scanning",
+      "Metasploit"
+    ],
+    "missing_skills": [
+      "Burp Suite",
+      "prior AppSec eng role"
+    ],
+    "title": "Application Security Engineer",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/ed322919-002e-4d1e-819a-e9336cad7a4d"
+  },
+  {
+    "raw_job_id": 18095,
+    "keep_in_db": true,
+    "fit_score": 60,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "ElevenLabs Compliance Engineer, US-designated. SOC2/ISO 27001 aligns with NIST CSF and ISO 27001 background.",
+    "ats_keywords": [
+      "compliance",
+      "SOC2",
+      "ISO 27001",
+      "GRC",
+      "security controls",
+      "risk assessment",
+      "NIST"
+    ],
+    "matched_skills": [
+      "ISO 27001",
+      "NIST CSF",
+      "security frameworks",
+      "risk assessment"
+    ],
+    "missing_skills": [
+      "audit experience",
+      "prior compliance eng role"
+    ],
+    "title": "Compliance Engineer - US",
+    "company": "elevenlabs",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
+  },
+  {
+    "raw_job_id": 19235,
+    "keep_in_db": true,
+    "fit_score": 68,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "RunPod (GPU cloud) Security Engineer, Remote US. Cloud/infra security \u2014 Docker, Linux, Wazuh SIEM, network security all directly relevant.",
+    "ats_keywords": [
+      "security engineer",
+      "cloud security",
+      "infrastructure security",
+      "Python",
+      "Linux",
+      "Docker",
+      "SIEM",
+      "vulnerability management"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Wazuh",
+      "SIEM",
+      "Nmap",
+      "Wireshark",
+      "network security",
+      "vulnerability management"
+    ],
+    "missing_skills": [
+      "AWS/GCP certifications",
+      "cloud security role experience"
+    ],
+    "title": "Security Engineer",
+    "company": "runpod",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/runpod/jobs/4118412008"
+  },
+  {
+    "raw_job_id": 17929,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Cohere SWE Security at LLM company. Security engineering + Python central. Remote. AI company security scope is broad.",
+    "ats_keywords": [
+      "software engineer security",
+      "Python",
+      "Linux",
+      "threat modeling",
+      "secure SDLC",
+      "cryptography",
+      "Docker"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "security engineering",
+      "threat modeling",
+      "secure SDLC"
+    ],
+    "missing_skills": [
+      "AI/ML security specifics",
+      "prior security SWE role"
+    ],
+    "title": "Software Engineer, Security",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066"
+  },
+  {
+    "raw_job_id": 19264,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Glean AppSec Engineer. Series E AI search company. Strong AppSec skills overlap.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "Python",
+      "Linux",
+      "secure SDLC",
+      "OWASP"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "OWASP",
+      "vulnerability scanning",
+      "secure SDLC"
+    ],
+    "missing_skills": [
+      "prior AppSec eng role",
+      "SaaS enterprise security experience"
+    ],
+    "title": "Security Engineer, Application Security",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4529774005"
+  },
+  {
+    "raw_job_id": 19265,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Glean Cloud Security Engineer, Remote US. Cloud infra security \u2014 Docker, Linux, network security all relevant.",
+    "ats_keywords": [
+      "cloud security",
+      "AWS",
+      "infrastructure security",
+      "Python",
+      "Linux",
+      "IAM",
+      "network security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "network security",
+      "TCP/IP",
+      "infrastructure automation"
+    ],
+    "missing_skills": [
+      "AWS/GCP certifications",
+      "dedicated cloud security role"
+    ],
+    "title": "Security Engineer, Cloud Security",
+    "company": "gleanwork",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4650994005"
+  },
+  {
+    "raw_job_id": 19290,
+    "keep_in_db": true,
+    "fit_score": 60,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Glean SWE Security. Python + security knowledge applicable at AI search company.",
+    "ats_keywords": [
+      "software engineer",
+      "security",
+      "Python",
+      "backend",
+      "Linux",
+      "threat modeling"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "security engineering"
+    ],
+    "missing_skills": [
+      "prior dedicated security eng role"
+    ],
+    "title": "Software Engineer, Security",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4436194005"
+  },
+  {
+    "raw_job_id": 19815,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Helsing (defense AI) Security Engineer, DC. Defense-sector security. Wazuh, network security, Linux all match. DC = defense hub.",
+    "ats_keywords": [
+      "security engineer",
+      "defense",
+      "SIEM",
+      "Linux",
+      "network security",
+      "threat detection",
+      "Python"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Wazuh",
+      "SIEM",
+      "Nmap",
+      "Wireshark",
+      "NIST",
+      "network security"
+    ],
+    "missing_skills": [
+      "active security clearance",
+      "defense contractor experience"
+    ],
+    "title": "Security Engineer",
+    "company": "helsing",
+    "location": "Washington, DC",
+    "url": "https://helsing.ai/jobs/4774775101?gh_jid=4774775101"
+  },
+  {
+    "raw_job_id": 20343,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Lovable (AI code gen) AppSec Engineer. SDLC security, secure code review relevant at AI coding product.",
+    "ats_keywords": [
+      "application security",
+      "AppSec",
+      "SAST",
+      "DAST",
+      "secure SDLC",
+      "Python",
+      "vulnerability assessment"
+    ],
+    "matched_skills": [
+      "application security",
+      "Python",
+      "Linux",
+      "secure SDLC",
+      "OWASP",
+      "vulnerability assessment"
+    ],
+    "missing_skills": [
+      "prior AppSec eng role",
+      "Burp Suite"
+    ],
+    "title": "Application Security Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/d15f1a6a-dbba-41d6-b8b4-90fc00de183c"
+  },
+  {
+    "raw_job_id": 20363,
+    "keep_in_db": true,
+    "fit_score": 60,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Lovable Product Security SWE. Full-stack + security mindset \u2014 matches security+SWE background.",
+    "ats_keywords": [
+      "product security",
+      "full stack",
+      "Python",
+      "JavaScript",
+      "secure coding",
+      "AppSec"
+    ],
+    "matched_skills": [
+      "Python",
+      "secure coding",
+      "security engineering",
+      "backend development"
+    ],
+    "missing_skills": [
+      "frontend frameworks",
+      "product security tooling"
+    ],
+    "title": "FullStack Engineer - Product Security",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/1f86955c-2748-4cd6-bd69-7e5c2c3fe465"
+  },
+  {
+    "raw_job_id": 19918,
+    "keep_in_db": true,
+    "fit_score": 62,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Plaid fintech Product Security Engineer, NY. Fintech security + Python + secure SDLC all align.",
+    "ats_keywords": [
+      "product security",
+      "fintech security",
+      "Python",
+      "secure SDLC",
+      "threat modeling",
+      "API security"
+    ],
+    "matched_skills": [
+      "Python",
+      "security engineering",
+      "threat modeling",
+      "Linux",
+      "Docker",
+      "API security"
+    ],
+    "missing_skills": [
+      "fintech domain knowledge",
+      "prior product security role"
+    ],
+    "title": "Product Security Engineer",
+    "company": "plaid",
+    "location": "New York",
+    "url": "https://jobs.lever.co/plaid/49f7e590-5487-4c58-84fb-54045ab793d1"
+  },
+  {
+    "raw_job_id": 19277,
+    "keep_in_db": true,
+    "fit_score": 60,
+    "fit_label": "good_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Glean SWE with explicit security focus. AI+Security intersection \u2014 strong match for security + Python skills.",
+    "ats_keywords": [
+      "software engineer",
+      "security",
+      "AI",
+      "Python",
+      "backend",
+      "threat modeling"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "security engineering",
+      "backend systems"
+    ],
+    "missing_skills": [
+      "prior combined SWE+security role"
+    ],
+    "title": "Software Engineer, AI & Security",
+    "company": "gleanwork",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4605446005"
+  },
+  {
+    "raw_job_id": 19218,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "ML observability/instrumentation role. Python relevant but requires ML platform experience.",
+    "ats_keywords": [
+      "ML observability",
+      "Python",
+      "OpenTelemetry",
+      "tracing"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "ML platform experience",
+      "observability tooling"
+    ],
+    "title": "AI Engineer, Instrumentation",
+    "company": "arizeai",
+    "location": "Remote (United States)",
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5661972004"
+  },
+  {
+    "raw_job_id": 20268,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Attio product engineer. Generic SWE at CRM startup, likely mid-level.",
+    "ats_keywords": [
+      "product engineer",
+      "full stack",
+      "TypeScript",
+      "React"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "TypeScript/React experience"
+    ],
+    "title": "Product Engineer",
+    "company": "attio",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/attio/70c55694-4f19-4077-b7fc-aa130048af62"
+  },
+  {
+    "raw_job_id": 19602,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": true,
+    "seniority": "entry_level",
+    "role_family": "other",
+    "reasoning_summary": "Celonis Orbit Program is a management consulting/value engineering rotational \u2014 not a SWE/security role.",
+    "ats_keywords": [
+      "value engineer",
+      "data science",
+      "analytics",
+      "consulting"
+    ],
+    "matched_skills": [
+      "Python",
+      "data analysis"
+    ],
+    "missing_skills": [
+      "consulting background",
+      "business acumen"
+    ],
+    "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+    "company": "celonis",
+    "location": "New York, US, New York",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003"
+  },
+  {
+    "raw_job_id": 17951,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Generic SWE at Cohere. No seniority signal but likely requires experience. Python relevant.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry SWE experience"
+    ],
+    "title": "Software Engineer, Collect",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/x"
+  },
+  {
+    "raw_job_id": 17954,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Infrastructure SWE at Cohere NA. Docker/Linux skills relevant but Cohere expects production infra experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry SWE experience"
+    ],
+    "title": "Software Engineer, Internal Infrastructure (North America)",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/x"
+  },
+  {
+    "raw_job_id": 17965,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Search SWE at Cohere. Interesting but likely requires search/ML experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry SWE experience"
+    ],
+    "title": "Software Engineer, Search Applications",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/x"
+  },
+  {
+    "raw_job_id": 17982,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Full-stack inference SWE at Cohere. Niche ML stack, likely requires experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry SWE experience"
+    ],
+    "title": "Full-Stack Software Engineer, Inference",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/x"
+  },
+  {
+    "raw_job_id": 17983,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "SRE at Cohere inference. Relevant SRE/infra skills but likely requires production experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry SWE experience"
+    ],
+    "title": "Site Reliability Engineer, Inference Infrastructure",
+    "company": "cohere",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cohere/x"
+  },
+  {
+    "raw_job_id": 19341,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "data_engineer",
+    "reasoning_summary": "Mid-level data/platform role at Contentful. Limited security relevance.",
+    "ats_keywords": [
+      "Python",
+      "SQL",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "data engineering experience"
+    ],
+    "title": "Analytics Engineer",
+    "company": "contentful",
+    "location": "Denver, Colorado, United States",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7544101"
+  },
+  {
+    "raw_job_id": 19347,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "data_engineer",
+    "reasoning_summary": "Mid-level data/platform role at Contentful. Limited security relevance.",
+    "ats_keywords": [
+      "Python",
+      "SQL",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "data engineering experience"
+    ],
+    "title": "Data Engineer",
+    "company": "contentful",
+    "location": "Denver, Colorado, United States",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7544099"
+  },
+  {
+    "raw_job_id": 19348,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "other",
+    "reasoning_summary": "Mid-level data/platform role at Contentful. Limited security relevance.",
+    "ats_keywords": [
+      "Python",
+      "SQL",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "data engineering experience"
+    ],
+    "title": "Data Scientist",
+    "company": "contentful",
+    "location": "Denver, Colorado, United States",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7548713"
+  },
+  {
+    "raw_job_id": 19356,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Mid-level data/platform role at Contentful. Limited security relevance.",
+    "ats_keywords": [
+      "Python",
+      "SQL",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "data engineering experience"
+    ],
+    "title": "Platform Engineer",
+    "company": "contentful",
+    "location": "Denver, Colorado, United States",
+    "url": "https://job-boards.greenhouse.io/contentful/jobs/7544103"
+  },
+  {
+    "raw_job_id": 18110,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Backend SWE at Deepgram voice AI. Python skills relevant but likely requires ML/audio experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Backend Software Engineer - Active Learning Team",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18111,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "SWE at Deepgram. Niche voice AI product vertical.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Software Engineer - Deepgram for Restaurants",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18114,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Research Engineer requires ML research background, likely PhD-preferred.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Research Engineer, Machine Learning Systems",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18115,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Backend infra SWE at Deepgram. Docker/Python relevant but inference-specific experience expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Backend Engineer- Inference Services",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18122,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "SRE at Deepgram. Kubernetes/AWS experience gap. Docker/Linux partial match.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform)",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18123,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Voice agent backend SWE. Niche domain.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Backend Software Engineer - Engine Team (Voice Agent)",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18124,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Voice AI SWE, niche product.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Software Engineer, Voice Agents / AI - Deepgram for Restaurants",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18133,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "MLOps infra \u2014 Docker/Linux relevant but MLOps tooling experience expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "ML Ops Infrastructure Engineer",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18135,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Network engineer at Deepgram. TCP/IP, network fundamentals match but real-time audio infra is specialized.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "audio/ML domain experience"
+    ],
+    "title": "Network Engineer, Real-Time Infrastructure",
+    "company": "deepgram",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/deepgram/x"
+  },
+  {
+    "raw_job_id": 18068,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Full-stack growth eng at ElevenLabs. Frontend-heavy, likely mid-level.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Full-Stack Growth Engineer",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 18069,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Backend-leaning full stack at ElevenLabs. Python/backend partially relevant.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Full-Stack Engineer (Back-End Leaning)",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 18070,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Frontend-leaning \u2014 not my focus.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Full-Stack Engineer (Front-End Leaning)",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 18072,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Generic full-stack at ElevenLabs. Mid-level expected.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Full-Stack Engineer",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 18076,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Automations/workflow engineer. Python skills relevant but automation-specific tooling expected.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Automations Engineer",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 18077,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "AI Safety Engineer \u2014 AI safety research focus, not security/SWE.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend"
+    ],
+    "missing_skills": [
+      "prior industry experience"
+    ],
+    "title": "Safety Engineer",
+    "company": "elevenlabs",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/x"
+  },
+  {
+    "raw_job_id": 19243,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Cloud infra at Glean. Docker/Linux/infra skills partially match but Glean expects production cloud experience.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Cloud Infrastructure Engineer",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4547218005"
+  },
+  {
+    "raw_job_id": 19254,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "MLE requires ML background. Not primary skillset.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Machine Learning Engineer, AI Assistant & Autonomous AI Agents",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4605215005"
+  },
+  {
+    "raw_job_id": 19255,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "MLE infra \u2014 some Docker/infra overlap but ML focus expected.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Machine Learning Engineer, Infrastructure",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4501783005"
+  },
+  {
+    "raw_job_id": 19256,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LLM evals \u2014 specialized ML role.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Machine Learning Engineer, LLM Evals & Observability",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4669417005"
+  },
+  {
+    "raw_job_id": 19257,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "ML search quality \u2014 ML background required.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Machine Learning Engineer, Search Quality",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006735005"
+  },
+  {
+    "raw_job_id": 19276,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Agentic SWE at Glean. Interesting but likely mid-level.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Agentic Runtime",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4616929005"
+  },
+  {
+    "raw_job_id": 19278,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Generic backend SWE at Glean. Mid-level expected.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Backend",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4581643005"
+  },
+  {
+    "raw_job_id": 19280,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Billing platform SWE. Limited security relevance.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Billing & Revenue Platform",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4675862005"
+  },
+  {
+    "raw_job_id": 19281,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Context platform SWE at Glean.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Context Platform",
+    "company": "gleanwork",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4638008005"
+  },
+  {
+    "raw_job_id": 19282,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Data foundations SWE. Some data pipeline relevance.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Data Foundations",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4637208005"
+  },
+  {
+    "raw_job_id": 19283,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Dev productivity SWE.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Developer Productivity",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4614706005"
+  },
+  {
+    "raw_job_id": 19284,
+    "keep_in_db": false,
+    "fit_score": 28,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Frontend SWE \u2014 not my focus.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Frontend",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006733005"
+  },
+  {
+    "raw_job_id": 19285,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Generic fullstack at Glean.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Fullstack",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006734005"
+  },
+  {
+    "raw_job_id": 19286,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Insights/analytics SWE.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Insights",
+    "company": "gleanwork",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4659229005"
+  },
+  {
+    "raw_job_id": 19288,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Platform SWE at Glean.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Platform",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4636739005"
+  },
+  {
+    "raw_job_id": 19289,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Product backend SWE at Glean.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior SWE experience",
+      "Glean stack"
+    ],
+    "title": "Software Engineer, Product Backend",
+    "company": "gleanwork",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4428090005"
+  },
+  {
+    "raw_job_id": 19835,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Helsing infra SWE, DC. Docker/Linux/infra skills relevant but defense company expects production infra experience.",
+    "ats_keywords": [
+      "infrastructure",
+      "Python",
+      "Linux",
+      "Docker",
+      "Kubernetes"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Kubernetes production ops",
+      "defense sector experience"
+    ],
+    "title": "Software Engineer - Infrastructure",
+    "company": "helsing",
+    "location": "Washington, DC",
+    "url": "https://helsing.ai/jobs/4729613101?gh_jid=4729613101"
+  },
+  {
+    "raw_job_id": 19316,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Developer Productivity Engineer",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5701750004"
+  },
+  {
+    "raw_job_id": 19321,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Full Stack Product Engineer",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/4620430004"
+  },
+  {
+    "raw_job_id": 19329,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, AI Agents",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5542602004"
+  },
+  {
+    "raw_job_id": 19330,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer - AI Productivity",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5809895004"
+  },
+  {
+    "raw_job_id": 19331,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, Control Plane",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5426891004"
+  },
+  {
+    "raw_job_id": 19332,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, Customer Studio Backend",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/4782625004"
+  },
+  {
+    "raw_job_id": 19333,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, Distributed Systems",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/4782632004"
+  },
+  {
+    "raw_job_id": 19334,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, Journeys",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5698845004"
+  },
+  {
+    "raw_job_id": 19335,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Software Engineer, Streaming Systems",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5731011004"
+  },
+  {
+    "raw_job_id": 19340,
+    "keep_in_db": false,
+    "fit_score": 30,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Hightouch data activation SWE. Mid-level expected. Some distributed systems relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "distributed systems",
+      "data pipelines"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "prior industry SWE role"
+    ],
+    "title": "Web Engineer",
+    "company": "hightouch",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5734303004"
+  },
+  {
+    "raw_job_id": 20332,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Distributed systems engineer at Inngest. Relevant background in distributed/event systems but likely requires experience.",
+    "ats_keywords": [
+      "distributed systems",
+      "Go",
+      "TypeScript",
+      "event-driven"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Kafka",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "production distributed systems"
+    ],
+    "title": "Distributed Systems Engineer - Platform",
+    "company": "inngest",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca"
+  },
+  {
+    "raw_job_id": 18011,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain SWE/eng role. Python very relevant but LangChain expects framework expertise.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "OSS contributions"
+    ],
+    "title": "Python OSS Engineer",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18019,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain SWE/eng role. Python very relevant but LangChain expects framework expertise.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "OSS contributions"
+    ],
+    "title": "FullStack Engineer, Observability & Evals Platform (LangSmith)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18023,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain SWE/eng role. Python very relevant but LangChain expects framework expertise.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "OSS contributions"
+    ],
+    "title": "Developer Productivity",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18032,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (San Francisco)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18033,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (NYC)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18034,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Austin)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18042,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Dallas)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18046,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Boston)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18048,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Atlanta)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18052,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Chicago)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18053,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (San Diego)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18054,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Los Angeles)",
+    "company": "langchain",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18055,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Charlotte)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18056,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Raleigh)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 18057,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "LangChain Deployed Engineer is a customer-facing field/solutions engineering role, not core SWE. Requires enterprise customer engagement.",
+    "ats_keywords": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend development"
+    ],
+    "missing_skills": [
+      "LangChain framework expertise",
+      "customer-facing experience"
+    ],
+    "title": "Deployed Engineer (Seattle)",
+    "company": "langchain",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/langchain/x"
+  },
+  {
+    "raw_job_id": 20264,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "data_engineer",
+    "reasoning_summary": "Lindy data engineer. Data pipelines overlap with Kafka/PyFlink background but data eng focus not primary target.",
+    "ats_keywords": [
+      "data engineering",
+      "Python",
+      "SQL",
+      "ETL"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "data engineering experience"
+    ],
+    "title": "Data Engineer",
+    "company": "lindy",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lindy/e56a424d-5a40-450b-8978-cd5e7c86deed"
+  },
+  {
+    "raw_job_id": 20334,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Lovable data platform. Python/data pipelines some relevance.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Data Platform Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20335,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Agents + evals engineer at Lovable. Interesting but niche AI product.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Engineer - Agents & Evals",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20336,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Backend product SWE at Lovable. Python/backend relevant.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Backend Product Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20337,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Fullstack product at Lovable. Mid-level expected.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Fullstack Product Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20342,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "AI code security SWE. Security angle relevant but Lovable is Swedish startup, entry-level unclear.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Fullstack Engineer - AI Code Security",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20345,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Platform/devex SWE at Lovable.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Platform Engineer - Developer Experience",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20346,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Infra SWE at Lovable. Docker/Linux skills partially relevant.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Software Engineer - Infrastructure",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20349,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Growth engineering at Lovable. Not security-focused.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Fullstack Growth Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20361,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Lovable GRC Engineer. NIST/ISO 27001 background relevant for governance/compliance but specialized role.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "GRC Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20366,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Duplicate growth eng role.",
+    "ats_keywords": [
+      "Python",
+      "TypeScript",
+      "security"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior industry role"
+    ],
+    "title": "Fullstack Growth Engineer",
+    "company": "lovable",
+    "location": "",
+    "url": "https://jobs.ashbyhq.com/lovable/x"
+  },
+  {
+    "raw_job_id": 20193,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Mistral cloud deployments SWE, NY. Infrastructure/cloud focus, Docker/Linux relevant but likely requires cloud deployment experience.",
+    "ats_keywords": [
+      "cloud deployments",
+      "Python",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "cloud deployment experience",
+      "Kubernetes production"
+    ],
+    "title": "Software Engineer, Cloud Deployments",
+    "company": "mistral",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/mistral/4db39406-fcec-4f12-abc1-42ecaa50d84f"
+  },
+  {
+    "raw_job_id": 19953,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir AppSec. Great title but non-new-grad Palantir roles require 2-5y experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Application Security Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/7e3ec54c-b73a-4014-8ef3-cdce8a4953c4"
+  },
+  {
+    "raw_job_id": 19954,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir AppSec Palo Alto. Same as NY \u2014 requires experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Application Security Engineer",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/86641a6e-5abb-40c5-8cc3-d481f70350d7"
+  },
+  {
+    "raw_job_id": 19955,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir AppSec DC. Likely requires clearance and experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Application Security Engineer",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd"
+  },
+  {
+    "raw_job_id": 19956,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir AppSec Remote US. Best location option but still mid-level expectations.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Application Security Engineer",
+    "company": "palantir",
+    "location": "Remote: United States",
+    "url": "https://jobs.lever.co/palantir/ce813413-de04-4a7b-a796-43735f55bf0c"
+  },
+  {
+    "raw_job_id": 19957,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir AppSec Seattle.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Application Security Engineer",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/f8df815c-6a38-4d57-b75f-c4262b9311b4"
+  },
+  {
+    "raw_job_id": 19960,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir backend SWE. Mid-level expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Application Development",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb"
+  },
+  {
+    "raw_job_id": 19961,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense backend. Clearance likely required.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Defense",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c"
+  },
+  {
+    "raw_job_id": 19962,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense backend Palo Alto.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Defense",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb"
+  },
+  {
+    "raw_job_id": 19963,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense backend NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Defense",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5"
+  },
+  {
+    "raw_job_id": 19964,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir infra SWE. Docker/Linux relevant but mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Infrastructure",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7"
+  },
+  {
+    "raw_job_id": 19966,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir infra foundations SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Backend Software Engineer - Infrastructure, Foundations",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c"
+  },
+  {
+    "raw_job_id": 19967,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir compliance eng. NIST/ISO background partially relevant but mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Compliance Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/6fa1ad9b-4506-45e4-a476-f4292911a279"
+  },
+  {
+    "raw_job_id": 19968,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir compliance eng Palo Alto.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Compliance Engineer",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/755c16c2-5207-49a7-9e7d-55eb608e03e6"
+  },
+  {
+    "raw_job_id": 19969,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir compliance eng DC.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Compliance Engineer",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/fbf8b12b-38f3-4cdb-a4d3-b5404c0aa98a"
+  },
+  {
+    "raw_job_id": 20023,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir full stack SWE. Mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Full Stack Software Engineer - Application Development",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7"
+  },
+  {
+    "raw_job_id": 20026,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir incident management. Ops/SRE flavored, relevant but mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Incident Management Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/b72abc17-293d-47e0-a094-c1ab0016b794"
+  },
+  {
+    "raw_job_id": 20027,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir industrial security. Physical security/clearance focus, not cyber.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Industrial Security Specialist",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/12d13a31-5764-4678-8835-809f0deae49b"
+  },
+  {
+    "raw_job_id": 20028,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir industrial security DC. Clearance required.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Industrial Security Specialist",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/320bc538-d707-4976-9ad1-44568c0a8ab9"
+  },
+  {
+    "raw_job_id": 20029,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir InfoSec Eng Seattle. Good title but non-new-grad Palantir expects 2-3y.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Information Security Engineer",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b"
+  },
+  {
+    "raw_job_id": 20030,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir InfoSec Eng DC. Clearance likely needed.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Information Security Engineer",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/36703f67-6fae-445c-9277-f946121faaa0"
+  },
+  {
+    "raw_job_id": 20031,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir InfoSec Eng NY. Best location. Still mid-level expectations.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Information Security Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/e2a8360a-710a-4185-b2a9-3b7d9fe590b1"
+  },
+  {
+    "raw_job_id": 20032,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "ISSE at Palantir DC. Clearance almost certainly required.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Information Systems Security Engineer",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/caeb42e8-5d44-4114-a912-0de2584d1a75"
+  },
+  {
+    "raw_job_id": 20037,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Platform intelligence SWE at Palantir. Mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Platform Intelligence Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/a753a9e7-a361-426b-9c25-3cf2488c1730"
+  },
+  {
+    "raw_job_id": 20041,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir Product Infra Security, Remote US East. Excellent title but mid-level.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Infrastructure Security Engineer",
+    "company": "palantir",
+    "location": "Remote: US - East",
+    "url": "https://jobs.lever.co/palantir/0f077970-31ad-45b4-ae76-458a134b705f"
+  },
+  {
+    "raw_job_id": 20042,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir Product Infra Security DC.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Infrastructure Security Engineer",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628"
+  },
+  {
+    "raw_job_id": 20043,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir Product Infra Security Palo Alto.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Infrastructure Security Engineer",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/346ff0e0-94dd-4d6c-916a-23ecdd74bbc6"
+  },
+  {
+    "raw_job_id": 20044,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir Product Infra Security Seattle.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Infrastructure Security Engineer",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/47bf61f0-853c-43f9-ad30-873784da9c59"
+  },
+  {
+    "raw_job_id": 20045,
+    "keep_in_db": false,
+    "fit_score": 55,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "security_engineer",
+    "reasoning_summary": "Palantir Product Infra Security NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Infrastructure Security Engineer",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/d617af53-e943-4122-8993-4f5853c667bf"
+  },
+  {
+    "raw_job_id": 20046,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense reliability eng. Mid-level, defense focus.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Reliability Engineer - Defense",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec"
+  },
+  {
+    "raw_job_id": 20047,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense reliability eng DC.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Product Reliability Engineer - Defense",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72"
+  },
+  {
+    "raw_job_id": 20065,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir SRE US Gov, DC. SRE skills partially relevant but clearance and production SRE experience expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Site Reliability Engineer - US Government",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080"
+  },
+  {
+    "raw_job_id": 20070,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir Apollo Platform SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Apollo Platform",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c"
+  },
+  {
+    "raw_job_id": 20071,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir Apollo Platform SWE Seattle.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Apollo Platform",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c"
+  },
+  {
+    "raw_job_id": 20073,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir Apollo Systems SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Apollo Systems",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4"
+  },
+  {
+    "raw_job_id": 20074,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir Apollo Systems SWE Seattle.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Apollo Systems",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821"
+  },
+  {
+    "raw_job_id": 20075,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir core interfaces SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Core Interfaces",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc"
+  },
+  {
+    "raw_job_id": 20076,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir defense apps SWE. Clearance likely required.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Defense Applications",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410"
+  },
+  {
+    "raw_job_id": 20077,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir dev productivity SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Developer Productivity",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15"
+  },
+  {
+    "raw_job_id": 20078,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir edge SWE. Interesting distributed/edge work.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Edge",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720"
+  },
+  {
+    "raw_job_id": 20079,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir environment platform SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Environment Platform",
+    "company": "palantir",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497"
+  },
+  {
+    "raw_job_id": 20080,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir environment platform SWE NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Environment Platform",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc"
+  },
+  {
+    "raw_job_id": 20081,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir frontend dev productivity. Frontend focus, not my strength.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Software Engineer - Frontend Developer Productivity",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540"
+  },
+  {
+    "raw_job_id": 20110,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir business systems engineer \u2014 IT systems admin role, not SWE/security.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Business Systems",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a"
+  },
+  {
+    "raw_job_id": 20111,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same role as NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Business Systems",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/da426d8b-5963-42e5-9b19-84649cb519cc"
+  },
+  {
+    "raw_job_id": 20112,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same role, Denver.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Business Systems",
+    "company": "palantir",
+    "location": "Denver, CO",
+    "url": "https://jobs.lever.co/palantir/df20ad9f-3d7f-4267-8e37-8253f717534a"
+  },
+  {
+    "raw_job_id": 20113,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same role, Palo Alto.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Business Systems",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/e1d6117e-2ee0-4cf6-8040-256c3009389f"
+  },
+  {
+    "raw_job_id": 20114,
+    "keep_in_db": false,
+    "fit_score": 28,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "M365 admin role. IT sysadmin, not SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Microsoft 365",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/4fbe610c-a1f2-47ca-9932-4bc35e65ee31"
+  },
+  {
+    "raw_job_id": 20115,
+    "keep_in_db": false,
+    "fit_score": 28,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "M365 admin NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Systems Engineer - Microsoft 365",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/810e07f1-0f24-432e-a615-58478bf6ee51"
+  },
+  {
+    "raw_job_id": 20122,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir web app dev defense, DC. Web dev + defense context.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Web Application Developer - Defense",
+    "company": "palantir",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/4255e21c-d0f2-4f57-b5db-1f65830d6425"
+  },
+  {
+    "raw_job_id": 20123,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir web app dev defense NY.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Web Application Developer - Defense",
+    "company": "palantir",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d"
+  },
+  {
+    "raw_job_id": 20124,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Palantir web app dev defense Palo Alto.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "missing_skills": [
+      "prior Palantir-level experience"
+    ],
+    "title": "Web Application Developer - Defense",
+    "company": "palantir",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/96e4295f-3af7-48e5-a2c8-74622eaf5587"
+  },
+  {
+    "raw_job_id": 19109,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "other",
+    "reasoning_summary": "Sales/solutions engineering role. Customer-facing, enterprise demos. Not core SWE/security.",
+    "ats_keywords": [
+      "solutions engineering",
+      "enterprise sales",
+      "Python",
+      "APIs"
+    ],
+    "matched_skills": [
+      "Python",
+      "API integration"
+    ],
+    "missing_skills": [
+      "sales engineering experience",
+      "customer-facing role"
+    ],
+    "title": "Partner Solution Engineer",
+    "company": "parloa",
+    "location": "Remotely in the USA",
+    "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101"
+  },
+  {
+    "raw_job_id": 18066,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "entry_level",
+    "role_family": "other",
+    "reasoning_summary": "Pinecone Associate Field Engineer \u2014 customer success/solutions role, not core SWE. Associate signal but wrong role family.",
+    "ats_keywords": [
+      "field engineer",
+      "vector database",
+      "Python",
+      "customer success"
+    ],
+    "matched_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "customer-facing experience",
+      "Pinecone/vector DB expertise"
+    ],
+    "title": "Associate Field Engineer",
+    "company": "pinecone",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/pinecone/3d2a4732-6460-479f-b16b-12112c48ca5f"
+  },
+  {
+    "raw_job_id": 19905,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Data scientist at Plaid. Not my target role.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Data Scientist - Network Value",
+    "company": "plaid",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/18503c02-17a0-4c47-98c8-155b0b6ccc2a"
+  },
+  {
+    "raw_job_id": 19912,
+    "keep_in_db": false,
+    "fit_score": 10,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "other",
+    "reasoning_summary": "Admin/EA role. Not relevant.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Executive Assistant, Product & Engineering",
+    "company": "plaid",
+    "location": "New York",
+    "url": "https://jobs.lever.co/plaid/8bc2bf33-95a0-4783-a21f-bd73a1a61149"
+  },
+  {
+    "raw_job_id": 19916,
+    "keep_in_db": false,
+    "fit_score": 15,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "other",
+    "reasoning_summary": "Sales/BD role. Not relevant.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "New Business Associate - Inbound",
+    "company": "plaid",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/177857f0-5455-4af7-ae04-1bedb3a1bc27"
+  },
+  {
+    "raw_job_id": 19940,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Plaid SWE NY. Fintech backend, relevant skills but mid-level expected.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Software Engineer",
+    "company": "plaid",
+    "location": "New York",
+    "url": "https://jobs.lever.co/plaid/49139a62-a9bc-4400-ae89-789818b34cb8"
+  },
+  {
+    "raw_job_id": 19941,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Plaid SWE Seattle.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Software Engineer",
+    "company": "plaid",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/plaid/f455a60a-6ea0-4d1b-890b-5f7869192c5f"
+  },
+  {
+    "raw_job_id": 19942,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Plaid SWE SF.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Software Engineer",
+    "company": "plaid",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/f456f4fa-a9f7-4673-892a-8943e3cfa3fe"
+  },
+  {
+    "raw_job_id": 19943,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Plaid Platform SWE SF.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "fintech"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "PostgreSQL"
+    ],
+    "missing_skills": [
+      "fintech domain experience"
+    ],
+    "title": "Software Engineer - Platform",
+    "company": "plaid",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/2b9a141e-0669-4197-aa52-2b07d9fadc96"
+  },
+  {
+    "raw_job_id": 19431,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "PlanetScale infra SWE. MySQL/distributed DB infra \u2014 interesting but requires production database/infra experience.",
+    "ats_keywords": [
+      "infrastructure",
+      "MySQL",
+      "distributed systems",
+      "Kubernetes",
+      "Go"
+    ],
+    "matched_skills": [
+      "Linux",
+      "Docker",
+      "distributed systems basics"
+    ],
+    "missing_skills": [
+      "MySQL/DB internals",
+      "production infra experience"
+    ],
+    "title": "Software Engineer - Infrastructure",
+    "company": "planetscale",
+    "location": "San Francisco Bay Area or Remote",
+    "url": "https://job-boards.greenhouse.io/planetscale/jobs/4036240009"
+  },
+  {
+    "raw_job_id": 20327,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Resend OSS engineer. Python/developer tooling somewhat relevant but OSS contributions expected.",
+    "ats_keywords": [
+      "Python",
+      "OSS",
+      "developer tools"
+    ],
+    "matched_skills": [
+      "Python",
+      "GitHub"
+    ],
+    "missing_skills": [
+      "OSS track record"
+    ],
+    "title": "Open Source Engineer",
+    "company": "resend",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/resend/x"
+  },
+  {
+    "raw_job_id": 20329,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "DevEx/DevRel hybrid at Resend. Not core SWE/security.",
+    "ats_keywords": [
+      "Python",
+      "OSS",
+      "developer tools"
+    ],
+    "matched_skills": [
+      "Python",
+      "GitHub"
+    ],
+    "missing_skills": [
+      "OSS track record"
+    ],
+    "title": "Developer Experience Engineer",
+    "company": "resend",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/resend/x"
+  },
+  {
+    "raw_job_id": 19237,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "RunPod full-stack SWE, Remote US. GPU cloud company, Python/backend relevant but full-stack scope broad.",
+    "ats_keywords": [
+      "full stack",
+      "Python",
+      "backend",
+      "React",
+      "Docker"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "backend"
+    ],
+    "missing_skills": [
+      "full-stack frontend experience"
+    ],
+    "title": "Software Engineer (Full-Stack)",
+    "company": "runpod",
+    "location": "Remote, USA",
+    "url": "https://job-boards.greenhouse.io/runpod/jobs/4785681008"
+  },
+  {
+    "raw_job_id": 17796,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify data infra backend. Python/Kafka relevant but mid-level at Spotify.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer - Data Infrastructure",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9"
+  },
+  {
+    "raw_job_id": 17797,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify ads backend. Mid-level, advertising domain.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer - Advertising",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/1689082c-9265-431f-9e55-ef7666e41283"
+  },
+  {
+    "raw_job_id": 17801,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify platform devex. Mid-level.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer - Platform Developer Experience",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/31bf7d45-9448-413c-8f61-b69a8f636f82"
+  },
+  {
+    "raw_job_id": 17805,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify music backend. Python/backend relevant but mid-level, music domain.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer, Music",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/52fe2b49-3c85-4479-b1db-2c5ab74cbcfc"
+  },
+  {
+    "raw_job_id": 17806,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same as above.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer, Music",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/ee5064af-0116-4ef2-994a-cb8fed580290"
+  },
+  {
+    "raw_job_id": 17807,
+    "keep_in_db": false,
+    "fit_score": 40,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify podcast backend.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Backend Engineer, Podcast",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a"
+  },
+  {
+    "raw_job_id": 17834,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Spotify fullstack, platform devex.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Fullstack Engineer - Platform Developer Experience",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/651491f7-cd91-49bd-93f5-eb939344463b"
+  },
+  {
+    "raw_job_id": 17837,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "MLE at Spotify. ML background required.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/e200d025-4cff-4eb8-afa4-6680e31c43a2"
+  },
+  {
+    "raw_job_id": 17838,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "MLE at Spotify duplicate.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Machine Learning Engineer",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/e68ad741-4c4e-4b06-ae11-9cf1e36dd40f"
+  },
+  {
+    "raw_job_id": 17839,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "ML personalization at Spotify.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Machine Learning Engineer, Personalization",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/de3f6a47-4d75-4512-8351-b362f1d1c32e"
+  },
+  {
+    "raw_job_id": 17889,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "SRE at Spotify. Backstage OSS. Docker/Linux relevant but mid-level SRE expected.",
+    "ats_keywords": [
+      "Python",
+      "backend",
+      "Kafka",
+      "distributed systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux",
+      "Docker",
+      "Kafka"
+    ],
+    "missing_skills": [
+      "prior Spotify-level SWE experience"
+    ],
+    "title": "Site Reliability Engineer - Backstage",
+    "company": "spotify",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb"
+  },
+  {
+    "raw_job_id": 19307,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "StabilityAI generative AI inference. Very specialized ML/inference role requiring deep ML knowledge.",
+    "ats_keywords": [
+      "generative AI",
+      "inference",
+      "CUDA",
+      "PyTorch",
+      "Python"
+    ],
+    "matched_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "ML research background",
+      "CUDA/GPU programming"
+    ],
+    "title": "Generative AI Inference Engineer",
+    "company": "stabilityai",
+    "location": "United States",
+    "url": "http://stability.ai/careers?gh_jid=4712826101"
+  },
+  {
+    "raw_job_id": 20303,
+    "keep_in_db": false,
+    "fit_score": 32,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "DevRel role. Not SWE/security.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Developer Relations Engineer (San Francisco, CA)",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20311,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Supabase support tooling SWE. APAC/AMER scope, some backend relevance.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Software Engineer - Support Tooling (APAC/AMER)",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20312,
+    "keep_in_db": false,
+    "fit_score": 28,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "GTM/sales engineering. Not relevant.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "GTM Engineer",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20313,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Customer-facing SRE at Supabase. Some reliability/SRE relevance.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Customer Reliability Engineer",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20314,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Data platform engineer at Supabase. PostgreSQL/infra skills partially relevant.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Platform Engineer: Data",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20322,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Supabase connection pooler SWE. PostgreSQL experience relevant.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Software Engineer - Supavisor",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20323,
+    "keep_in_db": false,
+    "fit_score": 52,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Auth SWE at Supabase. Authentication/security overlap with profile.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Product Engineer - Auth",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20324,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Go auth engineer at Supabase. Auth/security relevant but Go experience gap.",
+    "ats_keywords": [
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "backend"
+    ],
+    "matched_skills": [
+      "Python",
+      "PostgreSQL",
+      "backend"
+    ],
+    "missing_skills": [
+      "Go experience",
+      "OSS database experience"
+    ],
+    "title": "Foundation Engineer (Golang) - Auth",
+    "company": "supabase",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/supabase/x"
+  },
+  {
+    "raw_job_id": 20381,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Synthesia ML SWE. ML/deep learning focus for video synthesis. Requires ML background.",
+    "ats_keywords": [
+      "machine learning",
+      "Python",
+      "PyTorch",
+      "deep learning"
+    ],
+    "matched_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "ML/deep learning experience"
+    ],
+    "title": "Software Engineer, Machine Learning",
+    "company": "synthesia",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/synthesia/b1f960fd-f07a-4788-8e5c-8a7c62c77fb2"
+  },
+  {
+    "raw_job_id": 18141,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Vapi agent engineer. Voice AI agents, Python relevant but niche voice AI domain expected.",
+    "ats_keywords": [
+      "agents",
+      "Python",
+      "voice AI",
+      "APIs"
+    ],
+    "matched_skills": [
+      "Python",
+      "backend",
+      "Docker"
+    ],
+    "missing_skills": [
+      "voice AI/telephony experience"
+    ],
+    "title": "Agent Engineer",
+    "company": "vapi",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211"
+  },
+  {
+    "raw_job_id": 19722,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Wayve autonomous driving SWE. Embedded/integration focus, likely requires automotive/embedded experience.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Application Software Engineer - Software Integration / Embedded Software",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8478666002"
+  },
+  {
+    "raw_job_id": 19723,
+    "keep_in_db": false,
+    "fit_score": 42,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same role, Detroit.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Application Software Engineer - Software Integration / Embedded Software",
+    "company": "wayve",
+    "location": "Detroit",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8449034002"
+  },
+  {
+    "raw_job_id": 19725,
+    "keep_in_db": false,
+    "fit_score": 48,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Wayve cloud infra. Docker/Linux/cloud relevant but AV-specific infra expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Cloud Infrastructure Engineer",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8483723002"
+  },
+  {
+    "raw_job_id": 19727,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Customer-facing integration role. Not core SWE.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Customer Integration Engineer",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8500131002"
+  },
+  {
+    "raw_job_id": 19728,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Same, Detroit.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Customer Integration Engineer",
+    "company": "wayve",
+    "location": "Detroit",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8501381002"
+  },
+  {
+    "raw_job_id": 19737,
+    "keep_in_db": false,
+    "fit_score": 35,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Wayve MLE. ML background required for AV ML.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Machine Learning Engineer, App SW",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8435254002"
+  },
+  {
+    "raw_job_id": 19761,
+    "keep_in_db": false,
+    "fit_score": 50,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Wayve OS/Kernel SWE. Linux kernel work interesting given Linux background but AV-specific robotics/embedded experience expected.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Software Engineer - OS & Kernel, Robot Software",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8423176002"
+  },
+  {
+    "raw_job_id": 19762,
+    "keep_in_db": false,
+    "fit_score": 38,
+    "fit_label": "poor_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Sensor systems SWE. Hardware/sensor domain \u2014 specialized.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Software Engineer - Sensor Systems, Robot Software",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8423839002"
+  },
+  {
+    "raw_job_id": 19763,
+    "keep_in_db": false,
+    "fit_score": 45,
+    "fit_label": "weak_fit",
+    "early_talent": false,
+    "seniority": "mid",
+    "role_family": "software_engineer",
+    "reasoning_summary": "System performance SWE. Performance tuning/optimization relevant but AV context.",
+    "ats_keywords": [
+      "Python",
+      "Linux",
+      "C++",
+      "embedded systems"
+    ],
+    "matched_skills": [
+      "Python",
+      "Linux"
+    ],
+    "missing_skills": [
+      "automotive/robotics experience",
+      "C++ proficiency"
+    ],
+    "title": "Software Engineer - System Performance, Robot Software",
+    "company": "wayve",
+    "location": "Sunnyvale",
+    "url": "https://wayve.firststage.co/jobs?gh_jid=8482117002"
+  }
+]

@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Hunter</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f13; color: #e4e4e7; min-height: 100vh; }
+
+    header { background: #18181b; border-bottom: 1px solid #27272a; padding: 16px 24px; display: flex; align-items: center; gap: 16px; }
+    header h1 { font-size: 1.2rem; font-weight: 600; color: #fff; }
+    .stats { margin-left: auto; display: flex; gap: 16px; font-size: 0.8rem; color: #71717a; }
+    .stats span { color: #a1a1aa; }
+    .stats strong { color: #e4e4e7; }
+
+    /* Tab nav */
+    .tab-nav { background: #18181b; border-bottom: 1px solid #27272a; padding: 0 24px; display: flex; gap: 0; }
+    .tab-btn { padding: 11px 18px; font-size: 0.85rem; font-weight: 500; color: #71717a; background: none; border: none; cursor: pointer; border-bottom: 2px solid transparent; transition: color .15s, border-color .15s; }
+    .tab-btn:hover { color: #a1a1aa; }
+    .tab-btn.active { color: #fff; border-bottom-color: #6366f1; }
+    .tab-badge { display: inline-flex; align-items: center; justify-content: center; background: #27272a; color: #a1a1aa; border-radius: 10px; font-size: 0.7rem; padding: 1px 7px; margin-left: 6px; }
+    .tab-btn.active .tab-badge { background: #312e81; color: #a5b4fc; }
+
+    /* Tab panels */
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    .toolbar { background: #18181b; border-bottom: 1px solid #27272a; padding: 12px 24px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .toolbar input { background: #27272a; border: 1px solid #3f3f46; border-radius: 6px; padding: 6px 12px; color: #e4e4e7; font-size: 0.85rem; width: 220px; }
+    .toolbar input::placeholder { color: #52525b; }
+    .toolbar input:focus { outline: none; border-color: #6366f1; }
+    .filter-btn { background: #27272a; border: 1px solid #3f3f46; border-radius: 6px; padding: 6px 12px; color: #a1a1aa; font-size: 0.82rem; cursor: pointer; transition: all .15s; }
+    .filter-btn:hover { background: #3f3f46; color: #e4e4e7; }
+    .filter-btn.active { background: #4338ca; border-color: #4338ca; color: #fff; }
+
+    main { padding: 20px 24px; max-width: 1200px; margin: 0 auto; }
+
+    /* ── Scored jobs tab ── */
+    .job-grid { display: flex; flex-direction: column; gap: 10px; }
+
+    .job-card { background: #18181b; border: 1px solid #27272a; border-radius: 10px; padding: 16px 20px; cursor: pointer; transition: border-color .15s, background .15s; }
+    .job-card:hover { border-color: #3f3f46; background: #1c1c21; }
+    .job-card.expanded { border-color: #4338ca; }
+    .job-card.status-applied { border-left: 3px solid #22c55e; }
+    .job-card.status-saved { border-left: 3px solid #6366f1; }
+    .job-card.status-dismissed { opacity: 0.45; }
+
+    .card-header { display: flex; align-items: flex-start; gap: 12px; }
+    .score-badge { min-width: 46px; height: 46px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.9rem; flex-shrink: 0; }
+    .score-strong { background: #14532d; color: #4ade80; }
+    .score-good { background: #1e3a5f; color: #60a5fa; }
+    .score-weak { background: #27272a; color: #71717a; }
+
+    .card-main { flex: 1; min-width: 0; }
+    .card-title { font-weight: 600; font-size: 0.95rem; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .card-meta { margin-top: 4px; font-size: 0.8rem; color: #71717a; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .tag { background: #27272a; border-radius: 4px; padding: 1px 7px; font-size: 0.72rem; color: #a1a1aa; }
+    .tag-security { background: #1e293b; color: #7dd3fc; }
+    .tag-entry { background: #1c1917; color: #fb923c; }
+    .tag-posted { background: transparent; color: #52525b; padding: 0; }
+
+    .card-actions { display: flex; gap: 6px; flex-shrink: 0; }
+    .action-btn { border: 1px solid #3f3f46; border-radius: 6px; padding: 5px 10px; font-size: 0.75rem; cursor: pointer; background: transparent; color: #a1a1aa; transition: all .15s; }
+    .action-btn:hover { background: #27272a; color: #e4e4e7; }
+    .btn-save.active { background: #1e1b4b; border-color: #4338ca; color: #818cf8; }
+    .btn-apply.active { background: #052e16; border-color: #16a34a; color: #4ade80; }
+    .btn-dismiss.active { background: #27272a; color: #52525b; }
+
+    .card-detail { display: none; margin-top: 14px; border-top: 1px solid #27272a; padding-top: 14px; }
+    .card-detail.open { display: block; }
+
+    .detail-row { display: flex; gap: 20px; margin-bottom: 12px; flex-wrap: wrap; }
+    .detail-col { flex: 1; min-width: 200px; }
+    .detail-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: .06em; color: #52525b; margin-bottom: 6px; }
+    .detail-text { font-size: 0.83rem; color: #a1a1aa; line-height: 1.5; }
+    .chip-list { display: flex; flex-wrap: wrap; gap: 4px; }
+    .chip { background: #27272a; border-radius: 4px; padding: 2px 8px; font-size: 0.75rem; color: #a1a1aa; }
+    .chip-matched { background: #052e16; color: #4ade80; }
+    .chip-missing { background: #450a0a; color: #f87171; }
+
+    .apply-link { display: inline-flex; align-items: center; gap: 6px; background: #4338ca; color: #fff; border-radius: 6px; padding: 7px 14px; font-size: 0.82rem; text-decoration: none; font-weight: 500; margin-top: 10px; transition: background .15s; }
+    .apply-link:hover { background: #3730a3; }
+
+    .date-divider { display: flex; align-items: center; gap: 10px; margin: 6px 0 2px; }
+    .date-divider::before { content: ''; flex: 1; height: 1px; background: #27272a; }
+    .date-divider span { font-size: 0.7rem; color: #3f3f46; text-transform: uppercase; letter-spacing: .07em; white-space: nowrap; }
+    .date-divider::after { content: ''; flex: 1; height: 1px; background: #27272a; }
+
+    .empty { text-align: center; padding: 60px 0; color: #52525b; font-size: 0.9rem; }
+    .loading { text-align: center; padding: 40px 0; color: #52525b; }
+
+    /* ── Review tab ── */
+    .review-toolbar { background: #18181b; border-bottom: 1px solid #27272a; padding: 12px 24px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .review-toolbar input { background: #27272a; border: 1px solid #3f3f46; border-radius: 6px; padding: 6px 12px; color: #e4e4e7; font-size: 0.85rem; width: 220px; }
+    .review-toolbar input::placeholder { color: #52525b; }
+    .review-toolbar input:focus { outline: none; border-color: #6366f1; }
+    .review-count { font-size: 0.82rem; color: #71717a; margin-left: auto; }
+    .review-count strong { color: #e4e4e7; }
+
+    .review-actions { position: sticky; bottom: 0; background: #18181b; border-top: 1px solid #27272a; padding: 12px 24px; display: flex; gap: 10px; align-items: center; z-index: 10; }
+    .btn-keep-all { background: #1e3a5f; border: 1px solid #2563eb; color: #93c5fd; border-radius: 6px; padding: 7px 16px; font-size: 0.82rem; cursor: pointer; transition: all .15s; }
+    .btn-keep-all:hover { background: #1e40af; }
+    .btn-reject-rest { background: #450a0a; border: 1px solid #991b1b; color: #fca5a5; border-radius: 6px; padding: 7px 16px; font-size: 0.82rem; cursor: pointer; transition: all .15s; }
+    .btn-reject-rest:hover { background: #7f1d1d; }
+    .btn-reject-rest:disabled { opacity: 0.4; cursor: not-allowed; }
+    .selection-info { font-size: 0.8rem; color: #71717a; }
+    .selection-info strong { color: #a1a1aa; }
+
+    .review-table { width: 100%; border-collapse: collapse; }
+    .review-table th { text-align: left; padding: 8px 12px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: .06em; color: #52525b; border-bottom: 1px solid #27272a; }
+    .review-table td { padding: 10px 12px; border-bottom: 1px solid #1c1c21; vertical-align: top; }
+    .review-table tr:hover td { background: #18181b; }
+    .review-table tr.row-kept td { background: #0c1a0e; }
+    .review-table tr.row-kept td:first-child { border-left: 2px solid #16a34a; }
+
+    .review-cb { width: 16px; height: 16px; cursor: pointer; accent-color: #4ade80; }
+    .review-title { font-size: 0.88rem; font-weight: 500; color: #e4e4e7; }
+    .review-company { font-size: 0.8rem; color: #a1a1aa; margin-top: 2px; }
+    .review-location { font-size: 0.78rem; color: #71717a; }
+    .review-snippet { font-size: 0.75rem; color: #52525b; margin-top: 4px; line-height: 1.4; max-width: 500px; }
+    .review-link { font-size: 0.75rem; color: #6366f1; text-decoration: none; }
+    .review-link:hover { color: #818cf8; text-decoration: underline; }
+
+    .company-group-header { background: #111114; }
+    .company-group-header td { padding: 6px 12px; font-size: 0.75rem; font-weight: 600; color: #52525b; text-transform: uppercase; letter-spacing: .06em; }
+
+    @media (max-width: 600px) {
+      header, .toolbar, .review-toolbar, .review-actions, main { padding-left: 14px; padding-right: 14px; }
+      .card-actions { flex-direction: column; }
+      .review-table th:nth-child(4), .review-table td:nth-child(4) { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎯 Job Hunter</h1>
+    <div class="stats">
+      <div><strong id="stat-total">—</strong> <span>total</span></div>
+      <div><strong id="stat-applied">—</strong> <span>applied</span></div>
+      <div><strong id="stat-saved">—</strong> <span>saved</span></div>
+    </div>
+  </header>
+
+  <!-- Tab navigation -->
+  <div class="tab-nav">
+    <button class="tab-btn active" data-tab="jobs">Jobs <span class="tab-badge" id="tab-badge-jobs">—</span></button>
+    <button class="tab-btn" data-tab="review">Review <span class="tab-badge" id="tab-badge-review">—</span></button>
+  </div>
+
+  <!-- ── JOBS TAB ── -->
+  <div class="tab-panel active" id="panel-jobs">
+    <div class="toolbar">
+      <input type="text" id="search" placeholder="Search title, company…" />
+      <button class="filter-btn active" data-status="">All</button>
+      <button class="filter-btn" data-status="new">New</button>
+      <button class="filter-btn" data-status="saved">Saved</button>
+      <button class="filter-btn" data-status="applied">Applied</button>
+      <button class="filter-btn" data-status="dismissed">Dismissed</button>
+      <select id="sort-select" style="margin-left:auto;background:#27272a;border:1px solid #3f3f46;color:#a1a1aa;font-size:0.82rem;padding:6px 10px;border-radius:6px;cursor:pointer;">
+        <option value="posted">Newest posted first</option>
+        <option value="score">Score: High → Low</option>
+      </select>
+    </div>
+    <main>
+      <div id="job-grid" class="job-grid">
+        <div class="loading">Loading jobs…</div>
+      </div>
+    </main>
+  </div>
+
+  <!-- ── REVIEW TAB ── -->
+  <div class="tab-panel" id="panel-review">
+    <div class="review-toolbar">
+      <input type="text" id="review-search" placeholder="Search title, company…" />
+      <button class="filter-btn" id="btn-select-all" onclick="selectAll()">Select All</button>
+      <button class="filter-btn" id="btn-deselect-all" onclick="deselectAll()">Deselect All</button>
+      <div class="review-count"><strong id="review-sel-count">0</strong> selected of <strong id="review-total-count">0</strong></div>
+    </div>
+    <div id="review-expired-msg" style="display:none;margin:6px 0 2px;padding:6px 12px;background:#1c1917;border-left:3px solid #f59e0b;border-radius:4px;font-size:.78rem;color:#d97706;"></div>
+    <main>
+      <div id="review-container">
+        <div class="loading">Loading…</div>
+      </div>
+    </main>
+    <div class="review-actions">
+      <div class="selection-info">
+        Check jobs to keep. Similar jobs (≥2 skill matches) are auto-kept. Old postings (&gt;20 days) are auto-removed on load.
+      </div>
+      <button class="btn-keep-all" onclick="submitReview()">Keep Selected &amp; Reject Rest</button>
+      <span id="review-status-msg" style="font-size:.8rem;color:#71717a;"></span>
+    </div>
+  </div>
+
+  <script>
+    const API = '';
+
+    // ═══════════════════════════════════════════════════════
+    //  JOBS TAB
+    // ═══════════════════════════════════════════════════════
+
+    let allJobs = [];
+    let activeStatus = '';
+    let searchQuery = '';
+
+    function scoreBadgeClass(score) {
+      if (score >= 80) return 'score-strong';
+      if (score >= 60) return 'score-good';
+      return 'score-weak';
+    }
+
+    function fmtPostedAt(isoStr) {
+      if (!isoStr) return null;
+      const d = new Date(isoStr);
+      const today = new Date();
+      const diffDays = Math.floor((today - d) / 86400000);
+      if (diffDays === 0) return 'posted today';
+      if (diffDays === 1) return 'posted yesterday';
+      if (diffDays < 30) return `posted ${diffDays}d ago`;
+      return 'posted ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
+
+    function tagHtml(job) {
+      const tags = [];
+      if (job.seniority === 'entry') tags.push('<span class="tag tag-entry">Entry Level</span>');
+      const rf = (job.role_family || '').replace(/_/g, ' ');
+      if (rf) tags.push(`<span class="tag">${rf}</span>`);
+      if ((job.title || '').toLowerCase().includes('intern')) tags.push('<span class="tag tag-entry">Intern</span>');
+      if ((job.title || '').toLowerCase().includes('security') || (job.role_family || '').includes('security'))
+        tags.push('<span class="tag tag-security">Security</span>');
+      const posted = fmtPostedAt(job.posted_at);
+      if (posted) tags.push(`<span class="tag tag-posted">${posted}</span>`);
+      return tags.join('');
+    }
+
+    function renderCard(job) {
+      const scoreClass = scoreBadgeClass(job.fit_score);
+      const statusClass = job.status !== 'new' ? `status-${job.status}` : '';
+      const savedActive = job.status === 'saved' ? 'active' : '';
+      const appliedActive = job.status === 'applied' ? 'active' : '';
+      const dismissedActive = job.status === 'dismissed' ? 'active' : '';
+
+      return `
+        <div class="job-card ${statusClass}" id="card-${job.id}" onclick="toggleCard(${job.id}, event)">
+          <div class="card-header">
+            <div class="score-badge ${scoreClass}">${Math.round(job.fit_score)}</div>
+            <div class="card-main">
+              <div class="card-title">${job.title}</div>
+              <div class="card-meta">
+                <strong style="color:#d4d4d8">${job.company}</strong>
+                <span>${job.location}</span>
+                ${tagHtml(job)}
+              </div>
+            </div>
+            <div class="card-actions" onclick="event.stopPropagation()">
+              <button class="action-btn btn-save ${savedActive}" onclick="setStatus(${job.id}, 'saved')">★ Save</button>
+              <button class="action-btn btn-apply ${appliedActive}" onclick="setStatus(${job.id}, 'applied')">✓ Applied</button>
+              <button class="action-btn btn-dismiss ${dismissedActive}" onclick="setStatus(${job.id}, 'dismissed')">✕</button>
+            </div>
+          </div>
+          <div class="card-detail" id="detail-${job.id}">
+            <div class="loading" id="detail-loading-${job.id}">Loading details…</div>
+          </div>
+        </div>`;
+    }
+
+    function renderDetail(d) {
+      const ats = (d.ats_keywords || []).map(k => `<span class="chip">${k}</span>`).join('') || '<span style="color:#52525b">—</span>';
+      const matched = (d.matched_skills || []).map(k => `<span class="chip chip-matched">${k}</span>`).join('') || '<span style="color:#52525b">—</span>';
+      const missing = (d.missing_skills || []).map(k => `<span class="chip chip-missing">${k}</span>`).join('') || '<span style="color:#52525b">none</span>';
+      return `
+        <div class="detail-row">
+          <div class="detail-col">
+            <div class="detail-label">Why it matched</div>
+            <div class="detail-text">${d.reasoning_summary || '—'}</div>
+          </div>
+        </div>
+        <div class="detail-row">
+          <div class="detail-col">
+            <div class="detail-label">ATS Keywords</div>
+            <div class="chip-list">${ats}</div>
+          </div>
+          <div class="detail-col">
+            <div class="detail-label">Matched Skills</div>
+            <div class="chip-list">${matched}</div>
+          </div>
+          <div class="detail-col">
+            <div class="detail-label">Gaps</div>
+            <div class="chip-list">${missing}</div>
+          </div>
+        </div>
+        <a class="apply-link" href="${d.url}" target="_blank" rel="noopener">Apply ↗</a>`;
+    }
+
+    async function toggleCard(id, event) {
+      const detail = document.getElementById(`detail-${id}`);
+      const isOpen = detail.classList.contains('open');
+      document.querySelectorAll('.card-detail.open').forEach(el => el.classList.remove('open'));
+      document.querySelectorAll('.job-card.expanded').forEach(el => el.classList.remove('expanded'));
+      if (isOpen) return;
+      detail.classList.add('open');
+      document.getElementById(`card-${id}`).classList.add('expanded');
+      if (detail.querySelector('.loading')) {
+        try {
+          const res = await fetch(`${API}/api/jobs/${id}`);
+          const d = await res.json();
+          detail.innerHTML = renderDetail(d);
+        } catch (e) {
+          detail.innerHTML = '<div style="color:#f87171;font-size:.82rem">Failed to load details.</div>';
+        }
+      }
+    }
+
+    async function setStatus(id, status) {
+      const job = allJobs.find(j => j.id === id);
+      if (!job) return;
+      const newStatus = job.status === status ? 'new' : status;
+      try {
+        await fetch(`${API}/api/jobs/${id}/status`, {
+          method: 'PATCH',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ status: newStatus }),
+        });
+        job.status = newStatus;
+        updateStats();
+        rerenderCard(job);
+      } catch (e) { console.error(e); }
+    }
+
+    function rerenderCard(job) {
+      const card = document.getElementById(`card-${job.id}`);
+      if (!card) return;
+      const detail = document.getElementById(`detail-${job.id}`);
+      const wasOpen = detail && detail.classList.contains('open');
+      const detailHtml = detail ? detail.innerHTML : '';
+      card.outerHTML = renderCard(job);
+      if (wasOpen) {
+        const newDetail = document.getElementById(`detail-${job.id}`);
+        newDetail.innerHTML = detailHtml;
+        newDetail.classList.add('open');
+        document.getElementById(`card-${job.id}`).classList.add('expanded');
+      }
+    }
+
+    function updateStats() {
+      document.getElementById('stat-total').textContent = allJobs.length;
+      document.getElementById('stat-applied').textContent = allJobs.filter(j => j.status === 'applied').length;
+      document.getElementById('stat-saved').textContent = allJobs.filter(j => j.status === 'saved').length;
+    }
+
+    function filtered() {
+      return allJobs.filter(j => {
+        if (activeStatus && j.status !== activeStatus) return false;
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          if (!j.title.toLowerCase().includes(q) && !j.company.toLowerCase().includes(q)) return false;
+        }
+        return true;
+      });
+    }
+
+    function dateLabel(isoStr) {
+      const d = new Date(isoStr);
+      const today = new Date();
+      const yesterday = new Date(today);
+      yesterday.setDate(today.getDate() - 1);
+      const same = (a, b) => a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate();
+      if (same(d, today)) return 'Today';
+      if (same(d, yesterday)) return 'Yesterday';
+      return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById('job-grid');
+      const jobs = filtered();
+      if (!jobs.length) {
+        grid.innerHTML = '<div class="empty">No jobs match the current filter.</div>';
+        return;
+      }
+
+      const sortMode = document.getElementById('sort-select').value;
+      let html = '';
+
+      if (sortMode === 'score') {
+        // Flat list sorted by fit_score descending
+        const sorted = [...jobs].sort((a, b) => (b.fit_score || 0) - (a.fit_score || 0));
+        html = sorted.map(renderCard).join('');
+      } else {
+        // Sort by posted_at (actual company posting date), fall back to first_seen_at
+        const getDate = j => new Date(j.posted_at || j.first_seen_at);
+        const sorted = [...jobs].sort((a, b) => getDate(b) - getDate(a));
+        // Group into date buckets using posted_at
+        const bucketMap = new Map();
+        for (const job of sorted) {
+          const label = dateLabel(job.posted_at || job.first_seen_at);
+          if (!bucketMap.has(label)) bucketMap.set(label, []);
+          bucketMap.get(label).push(job);
+        }
+        // Buckets are already in order since sorted array is newest-first
+        let first = true;
+        for (const [label, bjobs] of bucketMap) {
+          if (!first) html += `<div class="date-divider"><span>${label}</span></div>`;
+          html += bjobs.map(renderCard).join('');
+          first = false;
+        }
+      }
+
+      grid.innerHTML = html;
+    }
+
+    async function loadJobs() {
+      try {
+        const res = await fetch(`${API}/api/jobs/?limit=200`);
+        allJobs = await res.json();
+        updateStats();
+        renderGrid();
+        document.getElementById('tab-badge-jobs').textContent = allJobs.length;
+      } catch (e) {
+        document.getElementById('job-grid').innerHTML = '<div class="empty">Could not reach API. Is the backend running?</div>';
+      }
+    }
+
+    document.querySelectorAll('.filter-btn[data-status]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn[data-status]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeStatus = btn.dataset.status;
+        renderGrid();
+      });
+    });
+
+    document.getElementById('search').addEventListener('input', e => {
+      searchQuery = e.target.value.trim();
+      renderGrid();
+    });
+
+    document.getElementById('sort-select').addEventListener('change', () => renderGrid());
+
+    // ═══════════════════════════════════════════════════════
+    //  REVIEW TAB
+    // ═══════════════════════════════════════════════════════
+
+    let allReviewJobs = [];
+    let keptIds = new Set();
+    let reviewSearchQuery = '';
+
+    function esc(str) {
+      return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function filteredReview() {
+      if (!reviewSearchQuery) return allReviewJobs;
+      const q = reviewSearchQuery.toLowerCase();
+      return allReviewJobs.filter(j =>
+        j.title.toLowerCase().includes(q) || j.company.toLowerCase().includes(q)
+      );
+    }
+
+    function renderReviewTable() {
+      const container = document.getElementById('review-container');
+      const jobs = filteredReview();
+
+      if (!jobs.length) {
+        container.innerHTML = '<div class="empty">No review jobs found.</div>';
+        updateReviewCounts();
+        return;
+      }
+
+      // Group by company
+      const byCompany = new Map();
+      for (const j of jobs) {
+        const c = j.company || 'Unknown';
+        if (!byCompany.has(c)) byCompany.set(c, []);
+        byCompany.get(c).push(j);
+      }
+      const companies = [...byCompany.keys()].sort();
+
+      let html = '<table class="review-table"><thead><tr>';
+      html += '<th style="width:32px"></th>';
+      html += '<th>Title</th>';
+      html += '<th style="width:160px">Location</th>';
+      html += '<th style="width:100px">View</th>';
+      html += '</tr></thead><tbody>';
+
+      for (const company of companies) {
+        const cJobs = byCompany.get(company);
+        html += `<tr class="company-group-header"><td colspan="4">${esc(company)} <span style="font-weight:400;color:#3f3f46">(${cJobs.length})</span></td></tr>`;
+        for (const j of cJobs) {
+          const isKept = keptIds.has(j.id);
+          const rowClass = isKept ? 'row-kept' : '';
+          const snippet = esc((j.description_snippet || '').substring(0, 200));
+          html += `<tr class="${rowClass}" id="rrow-${j.id}">`;
+          html += `<td><input type="checkbox" class="review-cb" id="cb-${j.id}" ${isKept ? 'checked' : ''} onchange="toggleKeep(${j.id}, this.checked)" /></td>`;
+          const badge = j.processing_status === 'queued'
+            ? '<span style="background:#1e3a5f;color:#60a5fa;border-radius:4px;font-size:.68rem;padding:1px 6px;margin-left:6px;">strong match</span>'
+            : '';
+          html += `<td>
+            <div class="review-title">${esc(j.title)}${badge}</div>
+            <div class="review-location">${esc(j.location)}</div>
+            ${snippet ? `<div class="review-snippet">${snippet}…</div>` : ''}
+          </td>`;
+          html += `<td style="white-space:nowrap"><span class="review-location">${esc(j.location)}</span></td>`;
+          html += `<td><a class="review-link" href="${esc(j.url)}" target="_blank" rel="noopener">Open ↗</a></td>`;
+          html += '</tr>';
+        }
+      }
+
+      html += '</tbody></table>';
+      container.innerHTML = html;
+      updateReviewCounts();
+    }
+
+    function toggleKeep(id, checked) {
+      if (checked) {
+        keptIds.add(id);
+      } else {
+        keptIds.delete(id);
+      }
+      const row = document.getElementById(`rrow-${id}`);
+      if (row) row.className = checked ? 'row-kept' : '';
+      updateReviewCounts();
+    }
+
+    function selectAll() {
+      filteredReview().forEach(j => keptIds.add(j.id));
+      renderReviewTable();
+    }
+
+    function deselectAll() {
+      filteredReview().forEach(j => keptIds.delete(j.id));
+      renderReviewTable();
+    }
+
+    function updateReviewCounts() {
+      const visible = filteredReview();
+      const visibleKept = visible.filter(j => keptIds.has(j.id)).length;
+      document.getElementById('review-sel-count').textContent = keptIds.size;
+      document.getElementById('review-total-count').textContent = allReviewJobs.length;
+      document.getElementById('tab-badge-review').textContent = allReviewJobs.length;
+    }
+
+    async function loadReviewJobs() {
+      try {
+        const res = await fetch(`${API}/api/raw-jobs/review?limit=500`);
+        const data = await res.json();
+        // API returns {auto_expired, total, jobs: [...]}
+        allReviewJobs = Array.isArray(data) ? data : (data.jobs || []);
+        keptIds = new Set();
+        const expiredMsg = document.getElementById('review-expired-msg');
+        if (expiredMsg && data.auto_expired > 0) {
+          expiredMsg.textContent = `Auto-removed ${data.auto_expired} stale postings (>20 days old).`;
+          expiredMsg.style.display = 'block';
+        } else if (expiredMsg) {
+          expiredMsg.style.display = 'none';
+        }
+        renderReviewTable();
+      } catch (e) {
+        document.getElementById('review-container').innerHTML = '<div class="empty">Could not load review jobs.</div>';
+      }
+    }
+
+    async function submitReview() {
+      if (allReviewJobs.length === 0) return;
+      const msg = document.getElementById('review-status-msg');
+      const btn = document.querySelector('.btn-keep-all');
+
+      const rejectCount = allReviewJobs.length - keptIds.size;
+      const confirmText = keptIds.size === 0
+        ? `Reject all ${rejectCount} jobs? This cannot be undone.`
+        : `Keep ${keptIds.size} selected jobs + auto-keep similar ones, reject ${rejectCount} others? (Similar = ≥2 matching skills)`;
+      if (!confirm(confirmText)) return;
+
+      btn.disabled = true;
+      msg.textContent = 'Submitting…';
+
+      try {
+        const res = await fetch(`${API}/api/raw-jobs/review/decide`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ keep_ids: [...keptIds] }),
+        });
+        const result = await res.json();
+        const autoKept = result.auto_kept || 0;
+        const manualKept = result.manually_kept || result.kept || 0;
+        let doneMsg = `Done — kept ${result.total_kept || manualKept} (${manualKept} manual`;
+        if (autoKept > 0) doneMsg += `, ${autoKept} auto-matched`;
+        doneMsg += `), rejected ${result.rejected}`;
+        msg.textContent = doneMsg;
+        msg.style.color = '#4ade80';
+        // Reload to show remaining
+        await loadReviewJobs();
+      } catch (e) {
+        msg.textContent = 'Error — check console';
+        msg.style.color = '#f87171';
+        btn.disabled = false;
+      }
+    }
+
+    document.getElementById('review-search').addEventListener('input', e => {
+      reviewSearchQuery = e.target.value.trim();
+      renderReviewTable();
+    });
+
+    // ═══════════════════════════════════════════════════════
+    //  TAB SWITCHING
+    // ═══════════════════════════════════════════════════════
+
+    let reviewLoaded = false;
+
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tab = btn.dataset.tab;
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById(`panel-${tab}`).classList.add('active');
+        if (tab === 'review' && !reviewLoaded) {
+          reviewLoaded = true;
+          loadReviewJobs();
+        }
+      });
+    });
+
+    // Initial load
+    loadJobs();
+  </script>
+</body>
+</html>

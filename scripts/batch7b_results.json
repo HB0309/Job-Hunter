@@ -1,0 +1,42 @@
+[
+  {
+    "raw_job_id": 49890,
+    "keep_in_db": true,
+    "fit_score": 68,
+    "fit_label": "good_fit",
+    "early_talent": true,
+    "seniority": "new_grad",
+    "role_family": "software_engineer",
+    "reasoning_summary": "Intel Linux/Android Kernel Engineer (entry-level / new grad). Explicitly designed for fresh graduates \u2014 \"Are you a graduate... designed for graduates ready to launch their careers.\" Min qual: BS/MS in CS/CE + 3 months experience (internships/academic count). Folsom CA. Strong systems/kernel role \u2014 excellent for Linux, embedded systems, OS fundamentals background. No immigration sponsorship. Unique opportunity in professional kernel dev at Intel SoC platform team.",
+    "ats_keywords": [
+      "Linux kernel",
+      "Android kernel",
+      "embedded systems",
+      "C/C++",
+      "SoC",
+      "FPGA",
+      "device drivers",
+      "kernel modules",
+      "cross-compilation",
+      "Git"
+    ],
+    "matched_skills": [
+      "Linux",
+      "C/C++",
+      "operating systems",
+      "embedded systems",
+      "Git",
+      "computer architecture"
+    ],
+    "missing_skills": [
+      "FPGA experience",
+      "Android kernel development",
+      "SoC hardware",
+      "cross-compilation toolchains"
+    ],
+    "title": "Linux Kernel Engineer",
+    "company": "intel",
+    "location": "US, California, Folsom",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-California-Folsom/Linux-Kernel-Engineer_JR0282647"
+  }
+]

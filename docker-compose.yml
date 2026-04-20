@@ -1,0 +1,36 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-jobhunter}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      POSTGRES_DB: ${POSTGRES_DB:-jobhunter}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U jobhunter"]
+      interval: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./backend:/app
+      - ./scripts:/app/scripts
+      - ./PROFILE_MATCH.md:/app/PROFILE_MATCH.md:ro
+      - ./SCORING_RULES.md:/app/SCORING_RULES.md:ro
+      - ./frontend:/app/frontend:ro
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:

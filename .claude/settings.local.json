@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker compose:*)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python /app/scripts/seed_sources.py)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend alembic downgrade base)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend alembic upgrade head)",
+      "WebSearch",
+      "WebFetch(domain:apify.com)",
+      "WebFetch(domain:docs.apify.com)",
+      "Bash(make down:*)",
+      "Bash(make up:*)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python -m pytest tests/test_connectors.py -v)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python scripts/seed_sources.py)",
+      "Skill(update-config)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python -m app.workers.run_ingestion)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python3 -)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec backend python -m app.workers.run_scoring --limit 60)",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose exec:*)",
+      "Bash(python -c ':*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8000/api/jobs/1)",
+      "Bash(curl -s --max-time 20 \"https://api.lever.co/v0/postings/yelp?mode=json\")",
+      "Bash(curl -s --max-time 20 \"https://api.lever.co/v0/postings/box?mode=json\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(len\\(d\\),'jobs'\\)\")",
+      "Bash(curl -s --max-time 15 https://api.ashbyhq.com/posting-api/job-board/__TRACKED_VAR__)",
+      "Bash(curl -s --max-time 15 \"https://api.ashbyhq.com/posting-api/job-board/anduril\")",
+      "Bash(curl -s --max-time 15 \"https://api.ashbyhq.com/posting-api/job-board/anduril-industries\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); jobs=d if isinstance\\(d,list\\) else d.get\\('jobs',[]\\); print\\(len\\(jobs\\),'jobs'\\)\")",
+      "Bash(curl -s --max-time 15 \"https://api.lever.co/v0/postings/yelp-inc?mode=json\")",
+      "Bash(cp /tmp/batch_ashby.json \"D:\\\\Job Hunter\\\\scripts\\\\batch_ashby.json\")",
+      "Bash(MSYS_NO_PATHCONV=1 docker compose -f \"D:\\\\Job Hunter\\\\docker-compose.yml\" exec backend python scripts/write_batch.py /app/scripts/batch_ashby.json)"
+    ]
+  }
+}
